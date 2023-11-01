@@ -1,6 +1,9 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Hemaka Pamodya</h1>
 <h3 align="center">A passionate Mobile Application Developer & Web Application Developer</h3>
+<div align="center">
+    <img src="/images/programmer1.gif" alt="Your Animated Icon" width="100" height="100">
+</div>
 
 - 🔭 I’m currently working on [EcoHarvest](https://github.com/hemaka1999/BlogLaravel.git)
 
